@@ -19,6 +19,11 @@ pnpm add -D typescript
 npx nuxi module add eslint
 ```
 
+https://unocss.dev/integrations/nuxt
+```bash
+pnpm add -D unocss @unocss/nuxt
+```
+and more... read guide!
 
 # Notes
 https://www.npmjs.com/package/nuxt?activeTab=versions
