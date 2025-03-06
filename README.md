@@ -1,1 +1,1 @@
-# minimal-pnpm-multi
+# nuxt-starters
