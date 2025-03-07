@@ -29,6 +29,7 @@
     "@storybook/vue3": "8.4.7",
     "@unocss/eslint-config": "66.0.0",
     "@unocss/nuxt": "66.0.0",
+    "@unocss/preset-web-fonts": "66.0.0",
     "eslint": "^9.0.0",
     "storybook": "8.4.7",
     "typescript": "^5.8.2",
