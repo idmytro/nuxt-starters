@@ -1,5 +1,7 @@
 # Nuxt Minimal Starter
 
+@nuxt/eslint": "^0.7.4 !
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup

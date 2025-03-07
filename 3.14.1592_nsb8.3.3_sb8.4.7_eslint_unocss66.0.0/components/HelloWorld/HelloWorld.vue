@@ -7,7 +7,7 @@ const msg = 'Nuxt + Unocss'
 </script>
 
 <template>
-  <div class="text-center HelloWorld">
+  <div class="HelloWorld text-center">
     <div class="flex items-center justify-center gap-48px">
       <a
         href="https://nuxt.com/"

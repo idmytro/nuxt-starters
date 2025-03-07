@@ -6,5 +6,10 @@ export default defineNuxtConfig({
     '@nuxtjs/storybook',
     '@nuxt/eslint',
     '@unocss/nuxt'
-  ]
+  ],
+  eslint: {
+    config: {
+      standalone: false
+    }
+  }
 })
