@@ -20,7 +20,7 @@
     "@antfu/eslint-config": "^4.7.0",
     "@chromatic-com/storybook": "3.2.5",
     "@iconify/utils": "^2.3.0",
-    "@nuxt/eslint": "^0.7.4",
+    "@nuxt/eslint": "^0.7.6",
     "@nuxtjs/storybook": "8.3.3",
     "@storybook/addon-essentials": "8.4.7",
     "@storybook/addon-interactions": "8.4.7",
