@@ -6,14 +6,24 @@ https://nuxt.com/docs/getting-started/installation
 pnpm create nuxt <project-name>
 ```
 
+https://storybook.nuxtjs.org/getting-started/setup
 ```bash
 pnpm dlx storybook@latest init
 ```
 
-Latest is nuxt 3.15.4
+https://eslint.nuxt.com/packages/module
+```bash
+pnpm add -D typescript
+```
+```bash
+npx nuxi module add eslint
+```
 
+https://unocss.dev/integrations/nuxt
+```bash
+pnpm add -D unocss @unocss/nuxt
+```
+and more... read guide!
 
-3.15.4 + sb = fail
-
-
+# Notes
 https://www.npmjs.com/package/nuxt?activeTab=versions
