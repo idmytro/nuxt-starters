@@ -51,7 +51,7 @@ const msg = 'Nuxt + Unocss'
 </template>
 
 <style>
-.HelloWorld {
+/* .HelloWorld {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-}
+} */
 </style>

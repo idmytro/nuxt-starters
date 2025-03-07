@@ -5,11 +5,11 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/storybook',
     '@nuxt/eslint',
-    '@unocss/nuxt'
+    '@unocss/nuxt',
   ],
   eslint: {
     config: {
-      standalone: false
-    }
-  }
+      standalone: false,
+    },
+  },
 })
