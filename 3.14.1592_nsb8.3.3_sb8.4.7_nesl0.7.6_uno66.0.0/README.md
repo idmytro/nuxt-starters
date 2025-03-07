@@ -1,5 +1,9 @@
 # Nuxt Minimal Starter
 
+```bash
+npx degit idmytro/nuxt-starters/tree/main/3.14.1592_nsb8.3.3_sb8.4.7_nesl0.7.6_uno66.0.0 .
+```
+
 @nuxt/eslint": "^0.7.4 !
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
