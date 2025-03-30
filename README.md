@@ -32,3 +32,8 @@ https://www.npmjs.com/package/nuxt?activeTab=versions
 
 sb8.4.7 warning fixed
 https://github.com/storybookjs/storybook/issues/30480
+
+## nuxt 3.16.1 + sb?
+```bash
+npx storybook@latest init
+```
