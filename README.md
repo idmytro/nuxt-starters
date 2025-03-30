@@ -1,5 +1,7 @@
 # nuxt-starters
 
+https://www.npmjs.com/package/nuxt
+
 https://nuxt.com/docs/getting-started/installation
 
 ```bash
